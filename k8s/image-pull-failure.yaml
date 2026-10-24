@@ -15,4 +15,4 @@ spec:
     spec:
       containers:
         - name: application
-          image: registry.invalid.example/kubeassist/nonexistent:v999
+          image: k8s/image-pull-failure.yaml
